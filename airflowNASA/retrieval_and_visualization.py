@@ -1,5 +1,5 @@
 from scripts import safe_images,store_in_db,get_meta_data
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 IMAGE_QUERY_URL: str = "https://api.nasa.gov/planetary/earth/imagery"
 

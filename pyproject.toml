@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "airflow"
+name = "airflowNASA"
 version = "0.1.0"
 description = ""
 authors = ["Valentin.Kiendl <Valentin.Kiendl>"]
@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pymongo = "^4.10.1"
+matplotlib = "^3.9.3"
+requests = "^2.32.3"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
