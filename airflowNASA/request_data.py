@@ -2,7 +2,6 @@ import requests
 from dotenv import load_dotenv
 from datetime import datetime
 import os
-#import matplotlib.pyplot as plt
 
 load_dotenv()
 
